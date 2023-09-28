@@ -1,2 +1,4 @@
 #!/bin/bash
 pwd
+#!/bin/bash -S
+u=rwx,g=rwx,o=rx
